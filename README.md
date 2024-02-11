@@ -24,10 +24,21 @@ To run the Alien Invasion game, follow these steps:
 4.  Run the `alien_invasion.py` file using the command `python alien_invasion.py`.
 5.  Enjoy playing the game and aim for the highest score!
 
+## Gameplay
+In Alien Invasion, the player controls a ship that appears at
+the bottom center of the screen. The player can move the ship
+right and left using the arrow keys and shoot bullets using the
+spacebar. When the game begins, a fleet of aliens fills the sky
+and moves across and down the screen. The player shoots and
+destroys the aliens. If the player shoots all the aliens, a new fleet
+appears that moves faster than the previous fleet. If any alien hits
+the player’s ship or reaches the bottom of the screen, the player
+loses a ship. If the player loses three ships, the game ends.
+
 ## Controls
 
 -   **Keyboard Controls**: Use the arrow keys (left and right) to move the player's spaceship. Press the spacebar to shoot projectiles.
--   **Mouse Controls**: Move the mouse left and right to control the player's spaceship. Left-click to shoot projectiles.
+-   **Mouse Controls**: Move the mouse left and right to control the player's spaceship.
 
 ## Dependencies
 
